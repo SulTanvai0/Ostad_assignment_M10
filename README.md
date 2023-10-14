@@ -7,8 +7,8 @@ http://localhost:8080/api/v1/getAllWorks //* by this url we can read all data .
 http://localhost:8080/api/v1//deleteWork/:id  //* by this url we can delete one data from work list by giving ID on Url .
 by this four url our frist requriement is complet 
 
-# for specific url to access we need to virify a token  
-ex: for update or create work list user have to use token . 
+# for specific url to access we need to Verifi a token  
+ex: for create ,  update , Read or Delete  work list user have to use token . 
 
 # password reset system 
 ex: http://localhost:8080/api/v1/resetPassword
